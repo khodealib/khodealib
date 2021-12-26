@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **khodealib/khodealib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋 
+
+- 🔭 I’m currently working on [Piped](https://github.com/khodealib/charity) 
+- 📫 Reach me via [email](khodealib@gmail.com)
+![Ali Bagheri's GitHub stats](https://github-readme-stats.vercel.app/api?username=khodealib&show_icons=true&theme=radical)
