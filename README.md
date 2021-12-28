@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋 
 
-- 🔭 I’m currently working on [Charity](https://github.com/khodealib/charity) 
-- 📫 Reach me via [email](khodealib@gmail.com)
+- 🔭 I’m currently working on [Charity](https://github.com/khodealib/charity) and [Planner](https://github.com/khodealib/planner_backend) 
+- 📫 Reach me via [email](mailto:name@email.com)
 
 
 ![Ali Bagheri's GitHub stats](https://github-readme-stats.vercel.app/api?username=khodealib&show_icons=true&theme=radical)
