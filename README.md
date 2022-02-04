@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Charity](https://github.com/khodealib/charity) and [Planner](https://github.com/khodealib/planner_backend) 
 - 📫 Reach me via [email](mailto:khodealib@gmail.com), [linkedin](https://linkedin.com/in/khodealib)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=khodealib&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Ali Bagheri's GitHub stats](https://github-readme-stats.vercel.app/api?username=khodealib&show_icons=true&theme=radical)
 
