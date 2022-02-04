@@ -20,7 +20,4 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=khodealib&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Ali Bagheri's GitHub stats](https://github-readme-stats.vercel.app/api?username=khodealib&show_icons=true&theme=radical)
-
-<p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=khodealib.visitor-badge">
-<p/>
+![Ali Bagheri's Most Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=khodealib&layout=compact&theme=tokyonight&hide_border=true)
