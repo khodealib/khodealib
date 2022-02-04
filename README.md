@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 
 ![Ali Bagheri's GitHub stats](https://github-readme-stats.vercel.app/api?username=khodealib&show_icons=true&theme=radical)
 
+<p align='center'>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=khodealib.visitor-badge">
+<p/>
