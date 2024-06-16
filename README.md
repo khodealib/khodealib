@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋 
 
-- 🔭 I’m currently working on [DivarAPI](https://github.com/khodealib/DivarAPI)
+- 🔭 I’m currently working on [Divar Django Clone](https://github.com/khodealib/divar-django-clone)
 - 📫 Reach me via [email](mailto:khodealib@gmail.com), [linkedin](https://linkedin.com/in/khodealib)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=khodealib&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
