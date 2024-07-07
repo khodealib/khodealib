@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [divar django clone](https://github.com/khodealib/divar-django-clone)
 
-- 🌱 I’m currently learning **django, fastapi and**
+- 🌱 I’m currently learning **django, fastapi and linux**
 
 - 👯 I’m looking to collaborate on [DivarAPI](https://github.com/khodealib/DivarAPI)
 
