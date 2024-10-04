@@ -29,6 +29,15 @@
 [![](https://visitcount.itsvg.in/api?id=khodealib&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!--START_SECTION:waka-->
+
+```txt
+Python        3 hrs 51 mins   ████████████▓░░░░░░░░░░░░   50.75 %
+HTML          2 hrs 2 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.83 %
+CSS           53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
+Text          18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+JSON          12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+```
+
 <!--END_SECTION:waka-->
 
 <br clear="both">
