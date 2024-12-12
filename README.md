@@ -34,11 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python         38 mins         ██████████████████▒░░░░░░   73.08 %
-Jupyter        9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
-Bash           3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
-Shell Script   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-Text           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
