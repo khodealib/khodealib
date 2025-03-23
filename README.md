@@ -34,10 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go           6 mins          ███████████▒░░░░░░░░░░░░░   45.01 %
-Python       3 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.30 %
-Git Config   2 mins          █████░░░░░░░░░░░░░░░░░░░░   20.26 %
-Text         1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
