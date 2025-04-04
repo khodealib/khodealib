@@ -34,8 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   12 mins         ████████████████████▒░░░░   81.19 %
-TOML     2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.81 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
