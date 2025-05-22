@@ -5,7 +5,7 @@
 ---
 # 💫 About Me:
 
-🔭 I'm currently working on [divar django clone](https://github.com/khodealib/divar-django-clone)<br><br>🌱 I'm currently learning **django, fastapi and linux**<br><br>👯 I'm looking to collaborate on [DivarAPI](https://github.com/khodealib/DivarAPI)<br><br>💬 Ask me about **python, django and linux**<br><br>📫 How to reach me **<khodealib@gmail.com>**
+🔭 I'm currently working on [ishop](https://github.com/itanc-com/ishop)<br><br>🌱 I'm currently learning **django, fastapi and linux**<br><br>👯 💬 Ask me about **python, fastapi and django**<br><br>📫 How to reach me **<khodealib@gmail.com>**
 
 ## 🌐 Socials:
 
