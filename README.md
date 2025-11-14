@@ -34,11 +34,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     10 hrs 53 mins  █████████████████░░░░░░░░   67.47 %
-Docker                     1 hr 39 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
-Nginx configuration file   1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
-YAML                       27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-TypeScript                 22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Python                     9 hrs 57 mins   ████████████████▓░░░░░░░░   67.21 %
+Docker                     1 hr 35 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+Nginx configuration file   1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+YAML                       26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Gettext Catalog            22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 ```
 
 <!--END_SECTION:waka-->
