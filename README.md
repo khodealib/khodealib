@@ -34,11 +34,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     9 hrs 57 mins   ████████████████▓░░░░░░░░   67.21 %
-Docker                     1 hr 35 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
-Nginx configuration file   1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
-YAML                       26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-Gettext Catalog            22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Python                     7 hrs 36 mins   ██████████████████▒░░░░░░   73.52 %
+Dart                       40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+Docker                     40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+Gettext Catalog            22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+CocoaPods                  14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
 
 <!--END_SECTION:waka-->
