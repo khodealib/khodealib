@@ -34,11 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     46 mins         ███████████████░░░░░░░░░░   60.33 %
-JSON                       16 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.71 %
-TOML                       6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
-HTML                       4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-Nginx configuration file   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
