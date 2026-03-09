@@ -34,11 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   3 mins                ████████▓░░░░░░░░░░░░░░░░   34.58 %
-Docker   2 mins                ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
-INI      1 min                 ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
-JSON     0 secs                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
-TOML     0 secs                ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
