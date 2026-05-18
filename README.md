@@ -34,8 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C      17 mins               ███████████████████████░░   91.83 %
-JSON   1 min                 ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
