@@ -34,7 +34,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C        3 mins                ███████▓░░░░░░░░░░░░░░░░░   30.98 %
+HTML     2 mins                ███████░░░░░░░░░░░░░░░░░░   28.63 %
+Docker   2 mins                █████▒░░░░░░░░░░░░░░░░░░░   20.83 %
+Python   1 min                 ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
+JSON     0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
 ```
 
 <!--END_SECTION:waka-->
