@@ -34,11 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         1 hr 18 mins          ████████▒░░░░░░░░░░░░░░░░   33.12 %
-YAML         44 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.98 %
-TOML         31 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
-Docker       26 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
-Python       25 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
