@@ -15,9 +15,14 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
+# 📌 Pinned Repositories
+
+[![fastapi-production-template](https://github-readme-stats.vercel.app/api/pin/?username=khodealib&repo=fastapi-production-template&theme=dark&hide_border=true)](https://github.com/khodealib/fastapi-production-template)
+[![django-production-template](https://github-readme-stats.vercel.app/api/pin/?username=khodealib&repo=django-production-template&theme=dark&hide_border=true)](https://github.com/khodealib/django-production-template)
+
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=khodealib&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=khodealib&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khodealib&theme=dark&hide_border=true)
 
 ## 🏆 GitHub Trophies
@@ -42,6 +47,15 @@ HTML         18 mins               █░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+<br clear="both">
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[fastapi-production-template](https://github.com/khodealib/fastapi-production-template)** | Production-ready FastAPI template with auth, DB migrations, testing, CI/CD, Docker, and monitoring | FastAPI, PostgreSQL, Redis, Docker, GitHub Actions, Prometheus |
+| **[django-production-template](https://github.com/khodealib/django-production-template)** | Production-ready Django template with REST API, Celery, testing, CI/CD, Docker, and monitoring | Django, DRF, PostgreSQL, Redis, Celery, Docker, GitHub Actions |
 
 <br clear="both">
 
