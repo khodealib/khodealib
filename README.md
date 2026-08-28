@@ -1,6 +1,6 @@
 # Ali Bagheri
 
-**Python Backend Engineer · Template Author · Freelancer**  
+**Python Backend Engineer · Template Author · Independent Consultant**  
 Tehran, Iran  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/khodealib)
@@ -12,7 +12,7 @@ Tehran, Iran
 ## What I Build
 
 - **Production-ready Python backend foundations** — cookiecutter templates for FastAPI and Django with auth, async ORM, migrations, rate-limiting, i18n, structured logging, Celery, and strict type/lint/test pipelines
-- **Developer experience tooling** — uv-based workflows, ruff/mypy/pytest configs, pre-commit, GitHub Actions CI, DevContainers
+- **Developer experience tooling** — uv-based workflows, ruff/mypy/pytest configs, pre-commit, GitHub Actions CI, Dev Containers
 - **Backend systems** — JWT authentication, async SQLAlchemy 2.0, Redis caching, PostgreSQL, observability, background task processing
 
 ---
@@ -21,7 +21,7 @@ Tehran, Iran
 
 | Backend | Data & Infrastructure | Engineering & DX |
 |---------|----------------------|------------------|
-| Python, FastAPI, Django 5.2, DRF, SQLAlchemy 2.0, Pydantic v2 | PostgreSQL, Redis, Alembic, Docker, Docker Compose, Nginx | uv, ruff, mypy (`--strict`), pytest, cookiecutter, pre-commit, GitHub Actions, DevContainers |
+| Python, FastAPI, Django 5.2, DRF, SQLAlchemy 2.0, Pydantic v2 | PostgreSQL, Redis, Alembic, Docker, Docker Compose, Nginx | uv, ruff, mypy (`--strict`), pytest, cookiecutter, pre-commit, GitHub Actions, Dev Containers |
 
 ---
 
@@ -36,14 +36,14 @@ Cookiecutter template generating production FastAPI projects with admin panel, a
 uvx cookiecutter gh:khodealib/fastapi-production-template
 ```
 
-[Repository](https://github.com/khodealib/fastapi-production-template) · [Generated Example](https://github.com/khodealib/fastapi-production-template/tree/main/%7B%7Bcookiecutter.project_slug%7D%7D)
+[Repository](https://github.com/khodealib/fastapi-production-template)
 
 ---
 
 ### [django-production-template](https://github.com/khodealib/django-production-template)
-Cookiecutter template for Django 5.2 LTS: uv, ruff, mypy, DRF + drf-spectacular, PostgreSQL, Redis, Celery, Docker, DevContainer, pytest + factory_boy, pre-commit, GitHub Actions CI, database seeding, 12-factor settings via django-environ.
+Cookiecutter template for Django 5.2 LTS: uv, ruff, mypy, DRF + drf-spectacular, PostgreSQL, Redis, Celery, Docker, Dev Containers, pytest + factory_boy, pre-commit, GitHub Actions CI, database seeding, 12-factor settings via django-environ.
 
-**Stack:** `Django 5.2` `DRF` `drf-spectacular` `PostgreSQL` `Redis` `Celery` `uv` `ruff` `mypy` `pytest` `Docker` `DevContainer` `GitHub Actions`
+**Stack:** `Django 5.2` `DRF` `drf-spectacular` `PostgreSQL` `Redis` `Celery` `uv` `ruff` `mypy` `pytest` `Docker` `Dev Containers` `GitHub Actions`
 
 ```bash
 uv tool install cookiecutter && cookiecutter gh:khodealib/django-production-template
