@@ -1,64 +1,85 @@
+# Ali Bagheri
 
+**Python Backend Engineer · Template Author · Freelancer**  
+Tehran, Iran  
 
-[![](https://visitcount.itsvg.in/api?id=khodealib&icon=1&color=0)](https://visitcount.itsvg.in)
-
----
-# 💫 About Me:
-
-🔭 I'm currently working on [ishop](https://github.com/itanc-com/ishop)<br><br>🌱 I'm currently learning **django, fastapi and linux**<br><br>👯 💬 Ask me about **python, fastapi and django**<br><br>📫 How to reach me **<khodealib@gmail.com>**
-
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alibagheri_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khodealib)
-
-# 💻 Tech Stack:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-# 📌 Pinned Repositories
-
-[![fastapi-production-template](https://github-readme-stats.vercel.app/api/pin/?username=khodealib&repo=fastapi-production-template&theme=dark&hide_border=true)](https://github.com/khodealib/fastapi-production-template)
-[![django-production-template](https://github-readme-stats.vercel.app/api/pin/?username=khodealib&repo=django-production-template&theme=dark&hide_border=true)](https://github.com/khodealib/django-production-template)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=khodealib&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=khodealib&theme=dark&hide_border=true)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=khodealib&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=khodealib&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/khodealib)
+[![Email](https://img.shields.io/badge/Email-khodealib@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:khodealib@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-khodealib-181717?logo=github&logoColor=white)](https://github.com/khodealib)
 
 ---
 
-<!--START_SECTION:waka-->
+## What I Build
 
-```txt
-Python       4 hrs 56 mins         █████████████████░░░░░░░░   67.81 %
-TOML         30 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-Docker       23 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-JSON         22 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
-HTML         18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+- **Production-ready Python backend foundations** — cookiecutter templates for FastAPI and Django with auth, async ORM, migrations, rate-limiting, i18n, structured logging, Celery, and strict type/lint/test pipelines
+- **Developer experience tooling** — uv-based workflows, ruff/mypy/pytest configs, pre-commit, GitHub Actions CI, DevContainers
+- **Backend systems** — JWT authentication, async SQLAlchemy 2.0, Redis caching, PostgreSQL, observability, background task processing
+
+---
+
+## Core Engineering Stack
+
+| Backend | Data & Infrastructure | Engineering & DX |
+|---------|----------------------|------------------|
+| Python, FastAPI, Django 5.2, DRF, SQLAlchemy 2.0, Pydantic v2 | PostgreSQL, Redis, Alembic, Docker, Docker Compose, Nginx | uv, ruff, mypy (`--strict`), pytest, cookiecutter, pre-commit, GitHub Actions, DevContainers |
+
+---
+
+## Featured Projects
+
+### [fastapi-production-template](https://github.com/khodealib/fastapi-production-template)
+Cookiecutter template generating production FastAPI projects with admin panel, async SQLAlchemy 2.0 + Alembic, JWT access/refresh rotation, rate-limiting (fixed/moving/sliding window), i18n, email, Redis caching, Celery, structured JSON logging (structlog), Prometheus metrics, health checks — strict ruff/mypy/pytest under uv.
+
+**Stack:** `FastAPI` `SQLAlchemy 2.0` `Redis` `Celery` `uv` `ruff` `mypy` `pytest` `Alembic` `Docker` `GitHub Actions`
+
+```bash
+uvx cookiecutter gh:khodealib/fastapi-production-template
 ```
 
-<!--END_SECTION:waka-->
+[Repository](https://github.com/khodealib/fastapi-production-template) · [Generated Example](https://github.com/khodealib/fastapi-production-template/tree/main/%7B%7Bcookiecutter.project_slug%7D%7D)
 
-<br clear="both">
+---
 
-## 🚀 Featured Projects
+### [django-production-template](https://github.com/khodealib/django-production-template)
+Cookiecutter template for Django 5.2 LTS: uv, ruff, mypy, DRF + drf-spectacular, PostgreSQL, Redis, Celery, Docker, DevContainer, pytest + factory_boy, pre-commit, GitHub Actions CI, database seeding, 12-factor settings via django-environ.
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[fastapi-production-template](https://github.com/khodealib/fastapi-production-template)** | Production-ready FastAPI template with auth, DB migrations, testing, CI/CD, Docker, and monitoring | FastAPI, PostgreSQL, Redis, Docker, GitHub Actions, Prometheus |
-| **[django-production-template](https://github.com/khodealib/django-production-template)** | Production-ready Django template with REST API, Celery, testing, CI/CD, Docker, and monitoring | Django, DRF, PostgreSQL, Redis, Celery, Docker, GitHub Actions |
+**Stack:** `Django 5.2` `DRF` `drf-spectacular` `PostgreSQL` `Redis` `Celery` `uv` `ruff` `mypy` `pytest` `Docker` `DevContainer` `GitHub Actions`
 
-<br clear="both">
+```bash
+uv tool install cookiecutter && cookiecutter gh:khodealib/django-production-template
+```
 
-<img src="https://raw.githubusercontent.com/khodealib/khodealib/output/snake.svg" alt="Snake animation" />
+[Repository](https://github.com/khodealib/django-production-template)
 
-###
+---
+
+### [designpattern-in-python](https://github.com/khodealib/designpattern-in-python)
+Reference implementations of all 23 GoF design patterns in modern Python: Creational (Singleton, Factory, Builder, Prototype), Structural (Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Proxy), Behavioral (Chain, Command, Iterator, Mediator, Memento, Observer, State, Strategy, Template, Visitor).
+
+**Stack:** `Python` `Design Patterns` `Software Architecture` `Clean Code` `SOLID`
+
+[Repository](https://github.com/khodealib/designpattern-in-python)
+
+---
+
+## Engineering Principles
+
+- **Type safety by default** — mypy `--strict`, Pydantic v2, django-stubs, zero `Any` in application code
+- **Async correctness** — structured concurrency, explicit lifecycles, no fire-and-forget tasks
+- **Developer experience is a feature** — templates eliminate boilerplate, DX tooling catches errors before CI, docs are executable
+- **Observability built-in** — structured JSON logging (structlog), health endpoints, Prometheus metrics, request tracing
+- **Migrations are contracts** — Alembic revisions reviewed, reversible, tested against staging data
+
+---
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khodealib&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default)
+
+---
+
+## Contact
+
+- **LinkedIn:** [linkedin.com/in/khodealib](https://linkedin.com/in/khodealib)
+- **Email:** [khodealib@gmail.com](mailto:khodealib@gmail.com)
+- **GitHub:** [github.com/khodealib](https://github.com/khodealib)
