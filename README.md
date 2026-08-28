@@ -74,7 +74,7 @@ Reference implementations of all 23 GoF design patterns in modern Python: Creati
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khodealib&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khodealib&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark)
 
 ---
 
